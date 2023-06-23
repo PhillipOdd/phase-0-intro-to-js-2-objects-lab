@@ -1,1 +1,7 @@
-// Write your solution in this file!
+var employee = {
+
+    name : "phillip",
+    streetAddress : "galana"
+
+    
+}
