@@ -1,7 +1,8 @@
 var employee = {
 
     name : "phillip",
-    streetAddress : "galana"
+    streetAddress : "galana",
+    food : "chicken"
 
     
 }
